@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: gradle-building-java-libraries
+Implementation-version: 0.1.0
+
